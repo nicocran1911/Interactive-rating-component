@@ -12,12 +12,12 @@ export default function ThankYou() {
           </div>
           <div className="flex justify-center items-center mt-5">
           <div className="bg-slate-800 rounded-3xl w-52 p-1 text-center">
-            <p className="text-orange-500">You selected 4 our of 5</p>
+            <p className="text-orange-500 text-sm">You selected 4 out of 5</p>
             </div>
           </div>
-          <h1 className="text-3xl font-bold text-center mt-6"> Thank you!</h1>
+          <h1 className="text-2xl font-bold text-center mt-4"> Thank you!</h1>
           <div>
-            <p className="text-sm text-center text-gray-400 mt-5 mb-6">
+            <p className="text-sm text-center text-gray-400 mt-2 mb-2">
               We appreciate you taking time to give a rateing. if you ever need
               support, dont hesitate to get in touch
             </p>
